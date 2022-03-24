@@ -1,0 +1,22 @@
+body
+{
+	background-image: url("math.jpg");
+    background-size: cover;
+}
+
+.login_div1 , .login_div2
+{
+	background: white;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+    width: 100%;
+    color: blue;
+    background-color: aquamarine;
+}
+h1{
+    color: greenyellow;
+}
+
+
+
